@@ -1,7 +1,7 @@
 /*
 Student Name: Gabriel Zayas
 File Name: script.js
-Date: 07/25/2024
+Date: 07/20/2025
 */
 
 //Hamburger menu function
